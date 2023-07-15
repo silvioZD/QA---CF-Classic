@@ -1,0 +1,9 @@
+"ID","Title","Assigned To","Automation Type","Case ID","Comment","Defects","Elapsed","Estimate","Forecast","In Progress","Plan","Plan ID","Priority","References","Run","Run Configuration","Run ID","Section","Section Depth","Section Description","Status","Tested By","Tested On","Type","Version"
+"T3827","Create new contact","Silvio Brkic"," None","C2379","Successful","","","","","","","","Medium","","Test Run 7/14/2023","","R19","Contacts","0","Contacts tab in CF Classic","Passed","Silvio Brkic","7/14/2023 10:58 AM","Functional",""
+"T3828","Archive contact","Silvio Brkic"," None","C2380","Getting error 500","","1800s","","","","","","Medium","","Test Run 7/14/2023","","R19","Contacts","0","Contacts tab in CF Classic","Failed","Silvio Brkic","7/14/2023 10:58 AM","Acceptance","1"
+"T3829","Delete contact","Silvio Brkic"," None","C2381","","","","","","","","","Medium","","Test Run 7/14/2023","","R19","Contacts","0","Contacts tab in CF Classic","Passed","Silvio Brkic","7/14/2023 10:58 AM","Functional",""
+"T3830","Exploratory Contact profile test","Silvio Brkic"," None","C2382","Test with Opera","","","","","","","","Medium","","Test Run 7/14/2023","","R19","Contacts","0","Contacts tab in CF Classic","Retest","Silvio Brkic","7/14/2023 10:58 AM","Other",""
+"T3831","Active Campaign","Silvio Brkic"," None","C2383","","","","","","","","","Medium","","Test Run 7/14/2023","","R19","Integrations","0","","Untested","","","Other",""
+
+
+
